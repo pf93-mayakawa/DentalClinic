@@ -147,7 +147,7 @@ header #logo {
 	background: #000;	/*背景色*/
 }
 
-/*fixmenu。メインメニューが画面上部に到達した際の設定
+/*fixmenu メインメニューが画面上部に到達した際の設定
 ---------------------------------------------------------------------------*/
 /*fixmenuブロック*/
 body.is-fixed .nav-fix-pos {
@@ -658,6 +658,7 @@ a[href$=".pdf"]{
 .half {width: 48%;}
 .link {display: block;margin-top: -80px;padding-top: 80px;}
 #main p {padding: 0px 50px 20px 50px;}
+
 
 
 /*画面幅1450px以下の設定
