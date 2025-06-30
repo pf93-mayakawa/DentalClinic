@@ -6,9 +6,9 @@
 <ul>
 <li class="current">
 	<a href="<?php echo esc_url(home_url('/')); ?>" rel="home">ホーム<span>Home</span></a></li>
-<li><a href="<?php echo home_url(); ?>/category/info">クリニック紹介<span>Information</span></a>
+<li><a href="<?php echo home_url(); ?>/category">クリニック紹介<span>Information</span></a>
 	<ul class="ddmenu">
-	<li><a href="<?php echo home_url(); ?>/category/info">クリニック紹介</a></li>
+	<li><a href="<?php echo home_url(); ?>/category">クリニック紹介</a></li>
 	<li><a href="<?php echo home_url(); ?>/category/info1">院長挨拶</a></li>
 	<li><a href="<?php echo home_url(); ?>/category/info2">スタッフ紹介</a></li>
 	</ul>
@@ -37,7 +37,7 @@
 <nav id="menubar-s">
 <ul>
 <li><a href="<?php echo esc_url(home_url('/')); ?>" rel="home">ホーム<span>Home</span></a></li>
-<li><a href="<?php echo home_url(); ?>/category/info">クリニック紹介<span>Information</span></a></li>
+<li><a href="<?php echo home_url(); ?>/category">クリニック紹介<span>Information</span></a></li>
 <li><a href="<?php echo home_url(); ?>/medical.html">診療内容<span>Medical</span></a></li>
 <li><a href="<?php echo home_url(); ?>/blog.html">ブログ<span>Blog</span></a></li>
 <li><a href="<?php echo home_url(); ?>/contact.html">ご予約・お問い合わせ<span>Contact</span></a></li>
